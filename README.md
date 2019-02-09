@@ -7,7 +7,7 @@ By default, both Alliance and Horde victory music are disabled, but this can be 
 
 
 ## Installation
-Because of the nature of this mod, installation is a little different than that of your typicaly addon, but is still quite simple:
+Because of the nature of this mod, installation is a little different than that of your typical addon, but is still quite simple:
 
 1. [⬇️ Download the mod ⬇️](https://github.com/Chroesire/Battleground-Victory-Music-Disabler/archive/1.0.zip)
 2. Unzip it.
